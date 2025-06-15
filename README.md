@@ -1,2 +1,2 @@
-# test
-this is test project
+# 网页爬虫，爬取图片。
+这是一个简单的python爬虫程序，爬取网上的图片，然后存储到本地个人电脑中。
