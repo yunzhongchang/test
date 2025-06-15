@@ -8,5 +8,5 @@ code文件夹下是源代码，utils文件夹下是工具包。
 1.requests
 2.beautifulsoup4
 
-# ps：记得下载好两个技术库的依赖。
+ps：使用时，记得下载这两个技术库的依赖。
 
